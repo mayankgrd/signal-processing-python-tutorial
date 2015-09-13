@@ -16,9 +16,9 @@ All the tutorial files here are actually iPython notebooks which you can directl
 
 ### Table of contents 
 1. Basic Python tutorial for signal processing (3 parts)
-    1.1. [Part 1](http://nbviewer.ipython.org/github/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt1.ipynb)
-    1.2. [Part 2](http://nbviewer.ipython.org/github/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt2.ipynb)
-    1.3. [Part 3](http://nbviewer.ipython.org/github/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt3.ipynb)
+  1.1. [Part 1](http://nbviewer.ipython.org/github/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt1.ipynb)
+  1.2. [Part 2](http://nbviewer.ipython.org/github/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt2.ipynb)
+  1.3. [Part 3](http://nbviewer.ipython.org/github/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt3.ipynb)
 
 
 
