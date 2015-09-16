@@ -20,9 +20,9 @@ All the tutorial files here are actually iPython notebooks which you can directl
 
 ### Table of contents 
 1. Basic Python tutorial for signal processing (3 parts)
-  * [Part 1](https://github.com/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt1.ipynb)
-  * [Part 2](https://github.com/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt2.ipynb)
-  * [Part 3](https://github.com/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt3.ipynb)
+  * [Part 1](https://github.com/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt1.ipynb): Python background: Lists, list comprehension, functions, signal processing related libraries.  
+  * [Part 2](https://github.com/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt2.ipynb): Introduction to numpy, nd-arrays (1D vector, 2D matrix) data types and linear algebra routines. 
+  * [Part 3](https://github.com/mayankgrd/signal-processing-python-tutorial/blob/master/sp-python-intro-pt3.ipynb): Plotting using matplotlib, defining time & frequency axis appropriately. 
 
 
 
